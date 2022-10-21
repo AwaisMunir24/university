@@ -1,0 +1,14 @@
+/* .context{
+    background: #F7F8FA;
+} */
+.content {
+    display: flex;
+    align-items: start;
+}
+.context {
+    padding: 50px;
+    width: calc(100% - 0px);
+}
+ul li {
+    padding: 0px 10px;
+}
